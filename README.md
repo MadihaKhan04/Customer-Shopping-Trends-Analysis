@@ -15,10 +15,20 @@ This Power BI project analyzes customer shopping behaviors to provide insights f
 
 - Display Key Performance Indicators (KPIs) for total sales, average purchase amounts, and other critical metrics.
 
-  # Insights
+# Insights
 
-  - Customers aged 40+ have the highest Purchase frequency.
+- Customers aged 40+ have the highest Purchase frequency.
     
-  - Medium is the most popular size purchased by customers.
+- Medium is the most popular size purchased by customers.
  
-  - Fall season records the highest spending in several categories. 
+- Fall season records the highest spending in several categories.
+
+# Tools
+
+- Data Cleaning
+
+- Data Analysis
+  
+- PowerBi
+  
+- DAX
